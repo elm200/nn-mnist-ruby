@@ -1,5 +1,5 @@
 # nn-mnist-ruby
-MNIST のデータを使って Ruby で手書き数字を認識する
+## MNIST のデータを使って Ruby で手書き数字を認識する
 
 [ゼロから作るDeep Learning ――Pythonで学ぶディープラーニングの理論と実装](https://www.oreilly.co.jp/books/9784873117584/)
 は deep learning の入門書として、素晴らしい本です。
