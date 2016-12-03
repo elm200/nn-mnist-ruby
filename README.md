@@ -14,10 +14,10 @@ https://github.com/oreilly-japan/deep-learning-from-scratch/blob/master/ch03/neu
 
 ## 使い方
 
-$ git clone git@github.com:elm200/nn-mnist-ruby.git
-$ cd nn-mnist-ruby
-$ bundle install
-$ ruby neuralnet_mnist.rb
+    $ git clone git@github.com:elm200/nn-mnist-ruby.git
+    $ cd nn-mnist-ruby
+    $ bundle install
+    $ ruby neuralnet_mnist.rb
 
 これで、MNIST の有名な手書き数字認識の例題が実行されます。
 
