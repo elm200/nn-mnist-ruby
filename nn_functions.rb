@@ -11,8 +11,8 @@ module NnFunctions
   end
 
   def argmax(x)
-    y = x.shape[0] == 1 ? [x.to_a] : x.to_a
-    res = y.to_a.map do |row|
+    list = x.shape[0] == 1 ? [x.to_a] : x.to_a
+    res = list.map do |row|
       max = -Float::MAX
       idx = nil
       row.each_with_index do |n, i|
